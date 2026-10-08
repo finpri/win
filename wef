@@ -1,0 +1,3 @@
+certutil -urlcache -f https://download.sysinternals.com/files/PSTools.zip C:\tmp\PSTools.zip
+tar -xf C:\tmp\PSTools.zip -C C:\tmp\pstools
+C:\tmp\pstools\PsExec64.exe -accepteula -i 2 -u DESKTOP-201\incoresoft -p fXx69cw5yWtmZGFC "C:\Program Files\Google\Chrome\Application\chrome.exe"
